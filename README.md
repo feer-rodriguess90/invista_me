@@ -24,7 +24,7 @@ Investment Tracker is a web application built using Django 4.2.6 that allows use
 ### Edit an existing investment at the '/investimentos/editar/<investment_id>/' URL. <br />
 ![Edit_investment](https://github.com/feer-rodriguess90/invista_me/blob/main/image/edit_investment.png)
 
-### Existing investment details at the '/investimentos/editar/<investment_id>/' URL. <br />
+### Existing investment details at the '/investimentos/detalhe/<investment_id>/' URL. <br />
 ![Details_investment](https://github.com/feer-rodriguess90/invista_me/blob/main/image/details_investment.png)
 
 ### Delete an existing investment at the '/investimentos/excluir/<investment_id>/' URL. <br />
