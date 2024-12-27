@@ -61,6 +61,13 @@ Python 3.11.0: The programming language used for the project.
 
 *  **Fernanda Rodrigues**
 
-Please follow on github and join us! <br />
-Thanks to visiting me and good coding!
+
+### 👩🏽‍💻 Happy coding! 
+Let's connect! <br/>
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datavizwithfer/) 
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DataVizWithFer)
+
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</div>
 
